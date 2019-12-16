@@ -1,5 +1,5 @@
 # Development
-AWS Cloud(EC2, RDS) , ubuntu , Docker , React.js , Node.js , MySql
+AWS Cloud(EC2, RDS) , ubuntu ,  React.j
 
 ![1](https://user-images.githubusercontent.com/18100537/70874909-8b240c00-1ff7-11ea-803b-96a430bcd124.png)
 ![2](https://user-images.githubusercontent.com/18100537/70874910-8b240c00-1ff7-11ea-96a7-a26a31633ae8.png)
