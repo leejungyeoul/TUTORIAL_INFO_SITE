@@ -1,5 +1,9 @@
 # Development
-AWS Cloud(EC2, RDS) , ubuntu ,  React.j
+AWS Cloud(EC2, RDS) , ubuntu ,  React.js
+
+# 학회 행사 튜토리얼 접속정보 공유 사이트
+튜토리얼 등록된 사용자 마다 각각 다른 계정 정보를 제공. DB 연결을 하지 않고
+excel파일을 json으로 변환해 
 
 ![1](https://user-images.githubusercontent.com/18100537/70874909-8b240c00-1ff7-11ea-803b-96a430bcd124.png)
 ![2](https://user-images.githubusercontent.com/18100537/70874910-8b240c00-1ff7-11ea-96a7-a26a31633ae8.png)
